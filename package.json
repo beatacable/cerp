@@ -1,0 +1,23 @@
+{
+  "name": "cerp",
+  "version": "1.0.0",
+  "description": "erpApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatacable/cerp.git"
+  },
+  "author": "Beata Cable",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatacable/cerp/issues"
+  },
+  "homepage": "https://github.com/beatacable/cerp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
